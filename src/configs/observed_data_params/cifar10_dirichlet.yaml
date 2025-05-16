@@ -1,0 +1,8 @@
+alpha: 1
+data_name: cifar10_dirichlet
+data_sources:
+  test_directories:
+  - src/configs/observed_data_params/test_map_file.csv
+  train_directories:
+  - src/configs/observed_data_params/train_map_file.csv
+verbose: true
